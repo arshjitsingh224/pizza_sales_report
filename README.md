@@ -23,7 +23,8 @@ Here are some questions that we'd like to be able to answer:
 
 ## Overall Analysis View
 
-![image](https://github.com/arshjitsingh224/pizza_sales_report/assets/160852623/1986c2b2-3da2-42dd-a12a-bef508f5003e)
+![image](https://github.com/arshjitsingh224/pizza_sales_report/assets/160852623/de70f283-b58d-495e-b95e-c98b4dfe8f79)
+
 
 
 ## Best/Worst Seller View
