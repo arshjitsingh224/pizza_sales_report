@@ -40,4 +40,4 @@ Here are some questions that we'd like to be able to answer:
 - Large size pizzas contributes to maximum sales.
 - Thai Thai Chicken contributes to highest revenue.
 - The Classic Deluxe Pizza contributes to maximum quantity and maximum Total Orders.
-- The Brie Carre contributes to lowest revenue, minimum quantity and Total Orders.
+- The Brie Carre contributes to lowest revenue, minimum quantity and minimum Total Orders.
