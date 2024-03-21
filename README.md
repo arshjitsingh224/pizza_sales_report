@@ -30,7 +30,8 @@ Here are some questions that we'd like to be able to answer:
 
 ## Best/Worst Seller View
 
-![image](https://github.com/arshjitsingh224/pizza_sales_report/assets/160852623/c1230c68-4460-45c7-bcba-1c9ee35fa449)
+![image](https://github.com/arshjitsingh224/pizza_sales_report/assets/160852623/8b4825f9-8385-4155-8ad0-192012569365)
+
 
 
 
